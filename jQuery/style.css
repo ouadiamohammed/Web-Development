@@ -1,0 +1,10 @@
+
+.big-title {
+    font-size: 100px; /* Adjust the font size as needed */
+    color: yellow;   /* Adjust the color as needed */
+    font-family: cursive;
+}
+
+.margin-50 {
+    margin: 50px;
+}
